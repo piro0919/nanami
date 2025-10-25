@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "next": "15.5.6",
+    "next": "16.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-page-border": "0.1.2",
@@ -24,7 +24,7 @@
     "commitlint-plugin-tense": "1.0.9",
     "depcheck": "1.4.7",
     "eslint": "^9",
-    "eslint-config-next": "15.5.6",
+    "eslint-config-next": "16.0.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-css": "0.11.1",
     "eslint-plugin-css-modules": "2.12.0",
