@@ -24,7 +24,7 @@
     "commitlint-plugin-tense": "1.0.9",
     "depcheck": "1.4.7",
     "eslint": "^9",
-    "eslint-config-next": "16.2.0",
+    "eslint-config-next": "16.2.1",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-css": "0.12.0",
     "eslint-plugin-css-modules": "2.12.0",
